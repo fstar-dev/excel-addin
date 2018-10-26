@@ -6,8 +6,8 @@
  xsi:type="TaskPaneApp">
 	<Id>ca968be6-628b-4f14-ba3c-3e614effa9bd</Id>
 	<Version>0.1.0.0</Version>
-	<ProviderName>Contoso</ProviderName>
-	<DefaultLocale>en-US</DefaultLocale>
+	<ProviderName>.NET Goiás</ProviderName>
+	<DefaultLocale>pt-BR</DefaultLocale>
 	<DisplayName DefaultValue="Consulta Endereço" />
 	<Description DefaultValue="Funções customizadas para consultar endereços brasileiros" />
 	<Hosts>
