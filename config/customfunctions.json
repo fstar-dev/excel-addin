@@ -15,6 +15,51 @@
           "type": "string"
         }
       ]
+    },
+    {
+      "id": "CONSULTABAIRRO",
+      "name": "CONSULTABAIRRO",
+      "description": "Retorna o bairro baseado no CEP",
+      "result": {
+        "type": "string"
+      },
+      "parameters": [
+        {
+          "name": "CEP",
+          "description": "CEP para ser consultado.",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "id": "CONSULTACIDADE",
+      "name": "CONSULTACIDADE",
+      "description": "Retorna a cidade baseada no CEP",
+      "result": {
+        "type": "string"
+      },
+      "parameters": [
+        {
+          "name": "CEP",
+          "description": "CEP para ser consultado.",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "id": "CONSULTAUF",
+      "name": "CONSULTAUF",
+      "description": "Retorna a unidade federativa baseado no CEP",
+      "result": {
+        "type": "string"
+      },
+      "parameters": [
+        {
+          "name": "CEP",
+          "description": "CEP para ser consultado.",
+          "type": "string"
+        }
+      ]
     }
   ]
 }

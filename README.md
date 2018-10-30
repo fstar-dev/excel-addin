@@ -39,6 +39,11 @@ O atributo esperado é um texto CEP sem máscara, por exemplo, *74123456*.
 
 5. Use as funções descritas acimas.
 
+## Documentação
+
+Você pode utilizar o [jsdocs](https://github.com/jsdoc3/jsdoc) para gerar
+a documentação das funções.
+
 ## Como colaborar
 
 Faça um fork deste projeto e envie um pull request com as suas alterações.
